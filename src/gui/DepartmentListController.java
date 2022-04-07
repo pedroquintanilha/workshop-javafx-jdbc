@@ -153,6 +153,7 @@ public class DepartmentListController implements Initializable, DataChangeListen
 			@Override
 			protected void updateItem(Department obj, boolean empty) {
 				super.updateItem(obj, empty);
+				
 				if (obj == null) {
 					setGraphic(null);
 					return;
