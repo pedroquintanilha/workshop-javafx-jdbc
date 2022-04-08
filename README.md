@@ -1,3 +1,3 @@
 # workshop-javafx-jdbc
 
-Developing
+Developing, to be finished!
