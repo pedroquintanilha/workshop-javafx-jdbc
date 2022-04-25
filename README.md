@@ -14,15 +14,19 @@ Accessing all departments and sellers:
 
 Adding a new department:
 ![](images/NewDep.PNG)
+
 Editing:
 ![](images/editDep.PNG)
+
 Deleting:
 ![](images/deleteDep.PNG)
 
 Adding a new seller:
 ![](images/NewSeller.PNG)
+
 Editing:
 ![](images/EditSeller.PNG)
+
 Deleting:
 ![](images/DeleteSeller.PNG)
 
